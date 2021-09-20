@@ -10,4 +10,4 @@ while len(odd) < 5:
     runs+=1
 
 sum_odds = sum(odd)      
-print(f"La cantidad de números impares es: {runs} y La suma total de los números impares es: {sum_odds}")
+print(f"La cantidad de números impares es: {len(odd)} y La suma total de los números impares es: {sum_odds}")
